@@ -226,7 +226,7 @@ export default class extends Component {
       this.autoplay()
     }
     if (this.props.children !== prevProps.children) {
-      if (this.props.loadMinimal && Platform.OS === 'ios') {
+      if (this.props.loadMinimal && (Platform.OS === 'ios' || Platform.OS === 'harmony')) {
         this.setState({ ...this.props, index: this.state.index })
       } else {
         this.setState(
