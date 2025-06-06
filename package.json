@@ -1,5 +1,5 @@
 {
-  "name": "react-native-swiper",
+  "name": "@react-native-oh-tpl/react-native-swiper",
   "keywords": [
     "react-component",
     "react-native",
@@ -44,14 +44,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leecade/react-native-swiper.git"
+    "url": "git+https://github.com/react-native-oh-library/react-native-swiper.git"
+  },
+  "harmony": {
+    "alias": "react-native-swiper"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leecade/react-native-swiper/issues"
+    "url": "https://github.com/react-native-oh-library/react-native-swiper/issues"
   },
-  "homepage": "https://github.com/leecade/react-native-swiper#readme",
+  "homepage": "https://github.com/react-native-oh-library/react-native-swiper#readme",
   "devDependencies": {
     "babel-eslint": "^8.0.1",
     "rimraf": "^2.5.4",
