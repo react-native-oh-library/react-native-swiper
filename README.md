@@ -1,4 +1,4 @@
-# @react-native-oh-tpl/react-native-swiper
+# @react-native-ohos/react-native-swiper
 
 This project is based on [react-native-swiper v1.6.0](https://github.com/leecade/react-native-swiper/releases/tag/v1.6.0)
 
