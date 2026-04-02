@@ -1,3 +1,6 @@
+- [1.6.1]
+  - Release official version 1.6.1.
+
 - [1.6.1-rc.1]
   - Adapt to rn0.77, modify organization name
 - [1.6.0-dev]
