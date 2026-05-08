@@ -1,3 +1,6 @@
+- [1.6.2]
+  - Release official version 1.6.2.
+
 - [1.6.1]
   - Release official version 1.6.1.
 
